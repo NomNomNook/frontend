@@ -1,0 +1,13 @@
+
+.bg-body-tertiary{
+  background-color: aquamarine !important;
+}
+.buttons{
+  margin: 10px
+}
+
+.buttons .btn btn-outline{
+  margin-top: 5px;
+  margin-left: 5px;
+}
+
