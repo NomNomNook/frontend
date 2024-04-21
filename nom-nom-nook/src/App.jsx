@@ -10,6 +10,8 @@ import Login from './pages/User/Login';
 
 
 import Pricing from './pages/User/Pricing';
+import ResSignup from './pages/Restaurant/Signup';
+import ResLogin from './pages/Restaurant/Login';
 
 
 
@@ -26,6 +28,8 @@ function App() {
           <Route path="/login" element={<Login />} />
 
           <Route path="/pricing" element={<Pricing />} />
+          <Route path="/admin/signup" element={<ResSignup />} />
+          <Route path="/admin/login" element={<ResLogin />} />
           
 
         </Routes>
