@@ -61,6 +61,7 @@ function Signup() {
         .post("http://localhost:8080/user/signup", userForm)
         .then((res) => {
           console.log("success")
+          
         })
         .catch((error) => {
           console.log(error);
