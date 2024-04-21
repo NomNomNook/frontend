@@ -13,6 +13,7 @@
 
 
 
+
 .carousel-inner{
   /* border: 2px solid rgb(12, 206, 8); */
   height: 38.8rem;
@@ -166,3 +167,4 @@ button{
 .three:hover{
   box-shadow: 2px 2px 2px grey;
 }
+
